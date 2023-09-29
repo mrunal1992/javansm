@@ -8,6 +8,8 @@ import entity.Employee;
 public class Main2 {
 
 	public static void main(String[] args) {
+
+		// creting list of employee here
 		List<Employee> empl= Arrays.asList(
 				new Employee(1, "Madhu", "Nagpur", 100000),
 				new Employee(2, "Megha", "Indore", 10000),
